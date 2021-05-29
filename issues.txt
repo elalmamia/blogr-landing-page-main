@@ -1,3 +1,0 @@
-svg background resze not working
-
-my classes are all over the place, no visible scheme
